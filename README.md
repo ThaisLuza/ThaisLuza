@@ -1,6 +1,8 @@
 ## Olá, eu sou Thais Luza
 
-- 🌱 Estudante de desenvolvimento web fullstack na Trybe
+
+- Desenvolvedora Front-end Júnior
+- :man_student: Estudante de desenvolvimento web fullstack na Trybe
 
 
 <div align="center">
