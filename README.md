@@ -14,7 +14,7 @@
   <div>
   Fundamentos de programação:
 
-    heavy_check_mark Unix and Bash
+    :heavy_check_mark: Unix and Bash
     heavy_check_mark Git and Github
     heavy_check_mark Markdown of course or I wouldn't be able to write this lol
     heavy_check_mark Html
