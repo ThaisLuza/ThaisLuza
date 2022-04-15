@@ -13,33 +13,28 @@
   
   <div>
   Fundamentos de programação:
-
-    :heavy_check_mark: Unix and Bash
-    heavy_check_mark Git and Github
-    heavy_check_mark Markdown of course or I wouldn't be able to write this lol
-    heavy_check_mark Html
-    heavy_check_mark CSS
-    heavy_check_mark Javascript
-    heavy_check_mark Api consumption
+    ✔️ Unix and Bash
+    ✔️ Git and Github
+    ✔️ Html
+    ✔️ CSS
+    ✔️ Javascript
+    ✔️ Api consumption
     
     Front-end:
-    
-    
-
-    heavy_check_mark React componenets
-    heavy_check_mark React events and forms
-    heavy_check_mark React Router
-    heavy_check_mark React Componenets lifecycle
-    heavy_check_mark Agile methoods
-    heavy_check_mark React testing library
-    heavy_check_mark React redux
-    heavy_check_mark Context api
-    heavy_check_mark React Hooks
+    ✔️ React componenets
+    ✔️ React events and forms
+    ✔️ React Router
+    ✔️ React Componenets lifecycle
+    ✔️ Agile methoods
+    ✔️ React testing library
+    ✔️ React redux
+    ✔️ Context api
+    ✔️ React Hooks
 
     Back-end:
     
-    heavy_check_mark Docker
-    hourglass SQL
+    ✔️ Docker
+    ✔️ SQL
 </div>
   
   <h3>Tools & Programming Languages:</h3>
