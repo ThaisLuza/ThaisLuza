@@ -11,16 +11,18 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisLuza&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  <div>
-  Fundamentos de programação:
-    ✔️ Unix and Bash
-    ✔️ Git and Github
+  
+  <h3>Skills</h3>
+  
+    Fundamentos  
+    ✔️ Unix and Bash  
+    ✔️ Git and Github  
     ✔️ Html
     ✔️ CSS
     ✔️ Javascript
     ✔️ Api consumption
     
-    Front-end:
+    Front-end
     ✔️ React componenets
     ✔️ React events and forms
     ✔️ React Router
@@ -31,11 +33,10 @@
     ✔️ Context api
     ✔️ React Hooks
 
-    Back-end:
-    
+    Back-end
     ✔️ Docker
     ✔️ SQL
-</div>
+  
   
   <h3>Tools & Programming Languages:</h3>
   
@@ -47,6 +48,9 @@
   <img align="center" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+  <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+  
 </div>
   
   ##
