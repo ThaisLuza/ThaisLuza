@@ -3,6 +3,7 @@
 
 - :computer: Desenvolvedora Front-end Júnior
 - :man_student: Estudante de desenvolvimento web fullstack na Trybe
+- :back: Backend em andamento
 
 
 <div align="center">
