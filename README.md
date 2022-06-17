@@ -3,6 +3,7 @@
 
 - :computer: Desenvolvedora Front-end Júnior
 - :man_student: Estudante de desenvolvimento web fullstack na Trybe
+- :man_student: Estudante de análise e desenvolvimento de sistemas pela UCS
 - :back: Backend em andamento
 
 
@@ -44,7 +45,7 @@
   
   
   
-  <h3>Tools & Programming Languages:</h3>
+  <h3>Ferramentas e Linguagens:</h3>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
