@@ -1,10 +1,10 @@
 ## Olá, eu sou Thais Luza
 
 
-- :computer: Desenvolvedora Front-end Júnior
+- :computer: Desenvolvedora Full-stack Júnior
 - :man_student: Estudante de desenvolvimento web fullstack na Trybe
 - :man_student: Estudante de análise e desenvolvimento de sistemas pela UCS
-- :back: Backend em andamento
+
 
 
 <div align="center">
