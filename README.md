@@ -2,7 +2,6 @@
 
 
 - :computer: Desenvolvedora Full-stack Júnior
-- :man_student: Estudante de desenvolvimento web fullstack na Trybe
 - :man_student: Estudante de análise e desenvolvimento de sistemas pela UCS
 
 
